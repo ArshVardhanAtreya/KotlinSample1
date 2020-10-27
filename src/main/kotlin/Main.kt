@@ -6,10 +6,10 @@ fun main(args: Array<String>) {
     val pet = "Freddy"
     println(pet)
 
-    val timsWeeklySalary = 32
-    val timsMonthlySalary = timsWeeklySalary * 4
-    println("Arsh's $ weekly salary is $$timsWeeklySalary")
-    println("Monthly, that comes to $timsMonthlySalary")
+    val myWeeklySalary = 32
+    val myMonthlySalary = myWeeklySalary * 4
+    println("Arsh's $ weekly salary is $$myWeeklySalary")
+    println("Monthly, that comes to $myMonthlySalary")
 
     println()
 
